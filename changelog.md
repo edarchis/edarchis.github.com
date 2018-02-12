@@ -3,6 +3,8 @@
 Public releases are all root nodes.  
 Incremental version bumps that were not released publicly are nested where appropriate.
 
+testing signing of commits.
+
 P.S. If there is a standard (popular) changelog format, please let me know.
 
 - **0.3.0 : 2013.02.24**
